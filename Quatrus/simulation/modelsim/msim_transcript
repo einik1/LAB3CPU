@@ -1,0 +1,283 @@
+# Reading C:/altera/12.1/modelsim_ase/tcl/vsim/pref.tcl 
+# do lab3_run_msim_rtl_vhdl.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying c:\altera\12.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied c:\altera\12.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/xor_gate.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity xor_gate
+# -- Compiling architecture rtl of xor_gate
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/swap.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity swap
+# -- Compiling architecture rtl of swap
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/sub_and_bias.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity Sub_and_bias
+# -- Compiling architecture rt of Sub_and_bias
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/signTag.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity signTag
+# -- Compiling architecture rtl of signTag
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/Sign_computation.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity Sign_computation
+# -- Compiling architecture rt of Sign_computation
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/Select_exp.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity Select_exp
+# -- Compiling architecture rt of Select_exp
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/Second_Swap.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity Second_Swap
+# -- Compiling architecture rtl of Second_Swap
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/or_gate.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity or_gate
+# -- Compiling architecture rtl of or_gate
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/NandR.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity NandR
+# -- Compiling architecture rtl of NandR
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/MIPS.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Compiling entity MIPS
+# -- Compiling architecture structure of MIPS
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/lead_zeros.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity Lead_zeros_counter
+# -- Compiling architecture rt of Lead_zeros_counter
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/IFETCH.VHD}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package altera_mf_components
+# -- Compiling entity Ifetch
+# -- Compiling architecture behavior of Ifetch
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/IEEE_Mult.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity IEEE_Mult
+# -- Compiling architecture rtl of IEEE_Mult
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/IEEE_Adder.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity IEEE_Adder
+# -- Compiling architecture rt of IEEE_Adder
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/IDECODE.VHD}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity Idecode
+# -- Compiling architecture behavior of Idecode
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/Hazard_Unit.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package altera_mf_components
+# -- Compiling entity Hazard_Unit
+# -- Compiling architecture BEHAVIORAL of Hazard_Unit
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/fullAdder.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity full_adder
+# -- Compiling architecture structural of full_adder
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/exp_sub.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity exp_sub
+# -- Compiling architecture rt of exp_sub
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/EXECUTE.VHD}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Compiling entity Execute
+# -- Compiling architecture behavior of Execute
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/DMEMORY.VHD}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package altera_mf_components
+# -- Compiling entity dmemory
+# -- Compiling architecture behavior of dmemory
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/DFF_Register.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity DFF_Register
+# -- Compiling architecture rtl of DFF_Register
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/CONTROL.VHD}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Compiling entity control
+# -- Compiling architecture behavior of control
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/and_gate.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity and_gate
+# -- Compiling architecture rtl of and_gate
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/Aligment_Shifter.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity Aligment_Shifter
+# -- Compiling architecture rtl of Aligment_Shifter
+# vcom -93 -work work {C:/Users/einik.BGU-USERS/Desktop/201553245/VHDL/adder.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package MATH_REAL
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity adder
+# -- Compiling architecture str of adder
+# 
+restart -f
+# No Design Loaded!
